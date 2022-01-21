@@ -14,7 +14,7 @@ parameter COL = 752;//图像宽度
 
 input  en;
 input  clk;
-input  [WIDTH-1:0] din; // din 8bits;;;
+input  [WIDTH-1:0] din; // din 8bits;;;;;
 output [WIDTH-1:0] dout;
 input  valid_in;//输入数据有效，写使能
 output valid_out;//输出给下一级的valid_in，也即上一级开始读的同时下一级就可以开始写入
