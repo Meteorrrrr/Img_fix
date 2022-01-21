@@ -1,2 +1,2 @@
 # img_fix
-img fix part
+image fix part
